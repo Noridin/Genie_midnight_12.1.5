@@ -1,0 +1,18 @@
+## Title: Genie |cff7fff7f UI|r
+## Interface: 120105
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+## Author: @project-author@
+## X-Website: https://www.curseforge.com/wow/addons/genie
+## X-Feedback: https://www.curseforge.com/wow/addons/genie/issues
+
+## RequiredDeps: Genie, Genie_LDB
+## OptionalDeps: Ace3
+## IconTexture: Interface\AddOns\Genie\Media\icon_editmode
+
+AceGUIContainer-GenieFrame.lua
+AceGUIContainer-GenieTreeGroup.lua
+AceGUIWidget-GenieIcon.lua
+
+GenieUI.lua

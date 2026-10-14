@@ -1,0 +1,10 @@
+Genie - 12.1.5 Update (Interface 120105)
+========================================
+
+- Interface 120105
+- C_Item API replacements (GetItemFamily, GetItemInfo, GetItemClassInfo, GetItemSubClassInfo, GetItemQualityColor)
+- Config mode menu fixed
+- Warband Bank excluded from sorting
+- Ace3 as OptionalDeps
+
+Requires Ace3. Extract Genie/, Genie_UI/, Genie_LDB/ into Interface/AddOns/ and /reload.

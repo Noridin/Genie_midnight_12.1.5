@@ -1,0 +1,25 @@
+﻿## Title: Genie
+## Notes: Genie helps you organize your bags, bank and/or guildbank
+## Notes-deDE: Genie hilft dir deine Taschen, Bank und/oder Gildenbank ordentlich zu halten
+## Notes-ruRU: Джин помогает вам упорядочить сумки, банк и/или банк гильдии
+## Notes-krKR: 지니는 당신의 가방, 은행, 길드은행을 정리해줍니다.
+## Notes-ptBR: O Genie ajuda a organizar suas bolsas, banco e/ou banco da guilda
+## Notes-itIT: Genie ti aiuta ad organizzare borse, banca e/o banca di gilda
+## Interface: 11509
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+## Author: @project-author@
+## X-Website: https://www.curseforge.com/wow/addons/genie
+## X-Feedback: https://www.curseforge.com/wow/addons/genie/issues
+
+## SavedVariables: GenieDB
+## OptionalDeps: Ace3
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+locale.xml
+Genie.lua
+

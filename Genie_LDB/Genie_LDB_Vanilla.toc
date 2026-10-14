@@ -1,0 +1,19 @@
+## Title: Genie |cff7fff7f LDB|r
+## Interface: 11509
+## Author: @project-author@
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## X-Revision: @project-revision@
+## X-Website: https://www.curseforge.com/wow/addons/genie
+## X-Feedback: https://www.curseforge.com/wow/addons/genie/issues
+
+## SavedVariables: GenieUI_IconDB
+## RequiredDeps: Genie
+## OptionalDeps: Ace3, LibDBIcon-1.0
+
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+#@no-lib-strip@
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+#@end-no-lib-strip@
+
+LDB+I.lua
