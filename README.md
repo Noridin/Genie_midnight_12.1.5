@@ -1,6 +1,6 @@
-# Genie – 12.1.7 Community Update
+# Genie – 12.1.5 Community Update
 
-Community-maintained update of the **Genie** bag/bank/guild bank sorter for World of Warcraft 12.1.7 (Interface 120105).
+Community-maintained update of the **Genie** bag/bank/guild bank sorter for World of Warcraft 12.1.5 (Interface 120105).
 
 ## Changes in this update
 
